@@ -1,0 +1,192 @@
+body {
+    background-color: #061E5D;
+    color: white;
+
+}
+.cabeçalho{
+    display: flex;
+    margin: 0  0 0 0;
+}
+.arabescos {
+    width: 700px;
+    height: 280px;
+
+}
+.titulo-colegio {
+    font-family: 'Permanent Marker', cursive;
+    width:auto;
+    text-align: right;
+    font-size: 40px;
+    padding: 50px 20px 70px 200px;
+    line-height: 50px;
+}
+.turma {
+    font-family: 'Felipa', cursive;
+    width: 98%;
+    text-align: right;
+    text-shadow: #92A4D7;
+    font-size: 100px;
+       line-height: 50px;
+    font-weight: bold;
+    padding: 0px 20px 60px 0px;
+}
+.descrição-escola {
+    padding: 30px 0 30px 0; 
+}
+.canetas {
+    width: 222px;
+    height: 122px;
+    padding: 12% 0% 20%  2%;
+}
+.parágrafos-colégio-descrição {
+    text-align: justify;
+    font-family: 'Josefin Slab', serif;
+    color: white;
+    font-size: 30px;
+    padding: 0px  70px  0px  70px;
+    line-height: 40px;
+    line-break: auto;
+}
+.local-colégio {
+padding: 20px;
+}
+.estrutura-colegio{
+padding: 20px;
+}
+.cursos-colegio {
+    padding: 20px;
+}
+.canetas-paragrafos{
+    display: flex;
+}
+.titulo-secçao-escola {
+    font-family: 'Josefin Slab', serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow:#ffffff;
+    text-align: center;
+    padding: 40px 0 10px 0;
+}
+.estudantes-titulo{
+    margin: 0;
+    color: white;
+    font-family: 'Josefin Slab', serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow:#ffffff;
+    text-align: center;
+    padding: 0 0 100px 0;
+}
+.alunos {
+    padding: 0 0 10% 0;
+}
+.estudante-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.ALUNO-1 {
+    align-items: center;
+    text-align: center;
+    padding: 0;
+    font-family: 'Josefin Slab', serif;
+    color: white;
+}
+.foto-estudante1 {
+    padding: 0;
+    align-items:center;
+    width: 120px;
+}
+.ALUNO1 {
+    padding: 0;
+    align-items: center;
+}
+
+.ALUNO-2 {
+    align-items: center;
+    text-align: center;
+    padding: 0;
+    font-family: 'Josefin Slab', serif;
+    color: white;
+}
+.foto-estudante2 {
+    padding: 0;
+    align-items:center;
+    width: 120px;
+}
+.ALUNO2 {
+    padding: 0;
+    align-items: center;
+}
+
+.ALUNO-3 {
+    align-items: center;
+    text-align: center;
+    padding: 0;
+    font-family: 'Josefin Slab', serif;
+    color: white;
+}
+.foto-estudante3 {
+    padding: 0;
+    align-items:center;
+    width: 120px;
+}
+.ALUNO3 {
+    padding: 0;
+    align-items: center;
+}
+
+.ALUNO-4 {
+    align-items: center;
+    text-align: center;
+    padding: 0;
+    font-family: 'Josefin Slab', serif;
+    color: white;
+}
+.foto-estudante4 {
+    padding: 0;
+    align-items:center;
+    width: 120px;
+}
+.ALUNO4 {
+    padding: 0;
+    align-items: center;
+}
+
+.ALUNO-5 {
+    align-items: center;
+    text-align: center;
+    padding: 0;
+    font-family: 'Josefin Slab', serif;
+    color: white;
+}
+.foto-estudante5 {
+    padding: 0;
+    align-items:center;
+    width: 120px;
+}
+.ALUNO5 {
+    padding: 0;
+    align-items: center;
+}
+
+.rodapé {
+    background-color: white;
+    margin:0;
+    padding: 0;
+    align-items: center;
+}
+.logo {
+    height: 50%;
+    align-items: center;
+    text-align: center;
+    padding: 20px 0 10px 0;
+}
+.logo-ceravolo {
+    height: 50%;
+    width: 20%;
+    opacity: 60%;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
